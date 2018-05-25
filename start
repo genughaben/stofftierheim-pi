@@ -1,6 +1,3 @@
 #!/bin/bash
 
-export AZURE_ACCOUNT_NAME='genughaben'
-export AZURE_ACCOUNT_KEY='87FLBZmAwzVOQdxJGklAEOpBWPPT13c6tG39wY9tdNms0CBicE0MAV4/zkTq9eiWJqEBFSImBLjE6+0exrmYAg=='
-
 /usr/bin/python /home/pi/Development/azure/record_and_save.py
