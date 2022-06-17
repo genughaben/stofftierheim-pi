@@ -109,7 +109,7 @@ mote==0.0.3
 motephat==0.0.2
 msrest==0.4.29
 msrestazure==0.4.31
-numpy==1.12.1
+numpy==1.21.0
 oauthlib==2.0.1
 pathlib2==2.3.2
 phatbeat==0.0.2
